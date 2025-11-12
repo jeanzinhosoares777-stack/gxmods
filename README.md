@@ -63,4 +63,4 @@ Or uploading zipped mod to [GX.store](https://operagx.gg/mods2) via [GX.create](
 
 Yes. It's called [GX.store](https://operagx.gg/mods2) and you can upload mods that you created via [GX.create](https://create.gx.games/mods).
 
-![GX.store](images/gxstore.png)
+![GX.store](images/gxstore.png) 
